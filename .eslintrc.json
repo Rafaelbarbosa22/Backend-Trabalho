@@ -13,6 +13,6 @@
     "rules": {
         "object-curly-spacing": 0,
         "new-cap": 0,
-        "space-before-fuction-paren": 0,
+        "space-before-fuction-paren": 0
     }
 }
