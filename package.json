@@ -1,0 +1,23 @@
+{
+  "name": "backend-trabalho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelbarbosa22/Backend-Trabalho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaelbarbosa22/Backend-Trabalho/issues"
+  },
+  "homepage": "https://github.com/Rafaelbarbosa22/Backend-Trabalho#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-generator": "^4.2.0"
+  }
+}
